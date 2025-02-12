@@ -28,7 +28,7 @@ A modern and responsive web application built to showcase the teachings and work
 ---
 
 ### **Let's Connect!**  
-- **LinkedIn:** [Ankith B.P](https://www.linkedin.com/in/ankith-bp-a44840340/)  
+- **LinkedIn:** [Ankith B.P](https://www.linkedin.com/in/ankith-b-p/)  
 - **Email:** sirankithbp1999@gmail.com  
 
 ---
