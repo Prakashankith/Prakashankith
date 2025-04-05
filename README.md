@@ -24,6 +24,10 @@ Here are some of the technologies I work with:
 A modern and responsive web application built to showcase the teachings and works of Basavanna.  
 - **Live Demo:** [https://basavanavachana.vercel.app/](https://basavanavachana.vercel.app/)  
 - **Technologies Used:** HTML, CSS, JavaScript, React, Tailwind CSS  
+#### **E-commerce**  
+A modern and complete responsive Ecommerce Website  
+- **Live Demo:** [https://vercel.com/prakashankith-project/clothify/]((https://vercel.com/prakashankith-project/clothify/)
+- **Technologies Used:** HTML, CSS, JavaScript, React,context API, Tailwind CSS  
 
 ---
 
