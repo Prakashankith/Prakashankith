@@ -26,7 +26,7 @@ A modern and responsive web application built to showcase the teachings and work
 - **Technologies Used:** HTML, CSS, JavaScript, React, Tailwind CSS  
 #### **E-commerce**  
 A modern and complete responsive Ecommerce Website  
-- **Live Demo:** [https://clothify-weld.vercel.app/]_(https://clothify-weld.vercel.app/)
+- **Live Demo:** https://clothify-weld.vercel.app/
 - **Technologies Used:** HTML, CSS, JavaScript, React,context API, Tailwind CSS  
 
 ---
